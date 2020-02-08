@@ -37,6 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'django_gulp',
+
+    'blog',
+
+    'login',
 ]
 
 MIDDLEWARE = [
@@ -123,4 +129,4 @@ STATICFILES_DIR = [os.path.join(BASE_DIR, 'static')]
 
 STATIC_ROOT = "membersystem/static"
 
-AUTH_USER_MODEL  = 'blog.Users'
+#AUTH_USER_MODEL  = 'blog.Users'
