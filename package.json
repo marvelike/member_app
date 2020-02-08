@@ -1,0 +1,22 @@
+{
+  "name": "djangoafrica",
+  "version": "1.0.0",
+  "description": "the member app for africa django community",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvelike/member_app.git"
+  },
+  "author": "marvelous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvelike/member_app/issues"
+  },
+  "homepage": "https://github.com/marvelike/member_app#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
